@@ -6,7 +6,7 @@ const Header = () => (
     <h1>React App</h1>
     <nav>
       <Link className={style.active} to="/">
-        Home
+        HomePage
       </Link>
       <Link className={style.active} to="todo">
         ToDo
