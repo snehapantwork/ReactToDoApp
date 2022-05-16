@@ -6,7 +6,7 @@ const Header = () => (
     <h1>React App</h1>
     <nav>
       <Link className={style.active} to="/">
-        HomePage
+        Home
       </Link>
       <Link className={style.active} to="todo">
         ToDo
@@ -15,7 +15,7 @@ const Header = () => (
         Me
       </Link>
       <Link className={style.active} to="profile/john">
-        John
+        JohnSeena
       </Link>
     </nav>
   </header>
