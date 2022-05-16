@@ -9,7 +9,7 @@ const Header = () => (
         Home
       </Link>
       <Link className={style.active} to="todo">
-        ToDo.
+        ToDo
       </Link>
       <Link className={style.active} to="profile">
         Me
